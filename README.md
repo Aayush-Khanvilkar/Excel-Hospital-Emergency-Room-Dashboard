@@ -48,6 +48,8 @@ This project presents an interactive Hospital Emergency Room Dashboard created i
 
 ## Dashboard Preview
 
+## Dashboard Preview
+
 ![Dashboard](Dashboard_Overview.png)
 
 ---
